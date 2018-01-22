@@ -11,7 +11,7 @@ Convert the following designs to HTML/CSS/JS.
 ![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requirements
-1. Create project using 
+1. Create project  
 2. Use HTML5 / SCSS
 3. Make it responsive using your best judgement.
 4. Create a simple custom overlay for photos - you could use jQuery or any other external libraries for it.
