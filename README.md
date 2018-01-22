@@ -11,10 +11,10 @@ Convert the following designs to HTML/CSS/JS.
 ![Xfive Front-end Test Overlay](xfive-front-end-test-overlay.jpg)
 
 ## Requirements
-1. Create project using [Chisel](https://github.com/xfiveco/generator-chisel)
+1. Create project using 
 2. Use HTML5 / SCSS
 3. Make it responsive using your best judgement.
-4. Create a simple custom overlay for photos - use only vanilla JavaScript, do not use jQuery or any other external libraries for it.
+4. Create a simple custom overlay for photos - you could use jQuery or any other external libraries for it.
 5. Create some hover effect for the image thumbnails.
 6. Make the page the smallest possible size - ensure that images are properly optimized, resources minified, etc.
 7. *Optional bonus task 1:* Use [responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
