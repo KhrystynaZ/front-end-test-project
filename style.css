@@ -1,0 +1,90 @@
+body{
+	background: url(http://www.goodwp.com/pic/201508/2560x1600/goodwp.com-32582.jpg) no-repeat  ;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	background-size: cover;
+    font-family: 'Montserrat', sans-serif;}
+		
+.rightblock {
+	display: block;
+	width: 72.222%;
+	text-align: center;
+	margin: auto;
+	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(255,255,255,0.0));
+    margin-top: -60px;}
+	
+ .name{ 
+	width: 90%; 
+	font-family: 'Montserrat', sans-serif;		
+	color: white;
+	text-shadow: 2px 2px 3px black;
+	margin-left: auto; 
+	margin-right: auto;	
+	padding-top: 50px;
+	padding-bottom:50px;
+	border: 4px ;
+	text-align: middle;}
+
+h1 {
+	font-size: 3.222em;
+	margin-top: 20px;}
+
+img {
+	max-width: 100%;
+	height: auto;
+	float: center;}
+	
+.photocard {
+	padding: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	width: 39.111%;
+	height: 600px;
+	font-family: 'Montserrat', sans-serif;	
+	text-align: center;}
+
+ .shaped1{
+	 border-radius: 50%;}
+
+ .shaped1, .shaped2, .shaped3, .shaped4{
+	 transition: all 0.3s ease-in-out;}
+  
+  
+.shaped1:hover {
+	-webkit-box-shadow: 0 0 16px 30px rgba(0,0,0,.2);
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	 transition: all 0.3s ease-in-out;}
+
+.shaped2:hover {
+   border-radius: 70%;}
+
+.shaped3:hover {
+    box-shadow:
+    1px 1px white,
+    2px 2px black,
+    3px 3px white,
+    4px 4px black,
+    5px 5px white,
+    6px 6px black,
+    7px 7px white;
+	-webkit-transform: translateX(-7px);
+	transform: translateX(-7px);}
+
+.shaped4:hover {
+	webkit-transform: rotateZ(20deg);
+	-ms-transform: rotateZ(20deg);
+	transform: rotateZ(20deg);}
+  
+h2 {
+	font-size: 2em;
+	color: white;
+	text-shadow: 2px 2px 3px black;
+	text-align: center;}
+	
+.text {
+	font-size: 0.9em;
+	color: white;}
